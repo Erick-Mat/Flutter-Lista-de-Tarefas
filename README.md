@@ -1,8 +1,6 @@
 # Flutter-Lista-de-Tarefas
 
-Estado: Finalizado ✔️
-
-### Aplicativo flutter que salva e organiza uma lista de tarefas feita pelo usuário.
+### Aplicativo de tarefas desenvolvido em flutter que salva e organiza uma lista de tarefas feita pelo usuário.
 
 #### Funcionalidades:
 + Visualização em lista. (scroll view).
@@ -19,3 +17,6 @@ Estado: Finalizado ✔️
 
 ## Dependências:
 + path_provider: ^2.0.11
+
+## Uso e resultado final:
+![Animação](https://user-images.githubusercontent.com/95777456/189498097-a02c22c0-dc09-4039-995b-af31b4e964c2.gif)
