@@ -19,4 +19,4 @@
 + path_provider: ^2.0.11
 
 ## Uso e resultado final:
-![Animação](https://user-images.githubusercontent.com/95777456/189498097-a02c22c0-dc09-4039-995b-af31b4e964c2.gif)
+![Animação](https://user-images.githubusercontent.com/95777456/189498707-243d69ad-6486-4d47-8f40-9de96a2fecd3.gif)
